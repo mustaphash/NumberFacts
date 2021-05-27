@@ -1,8 +1,8 @@
 ﻿using Newtonsoft.Json;
 
-namespace NumberFacts
+namespace Models.NumberFact
 {
-    class NumberFact
+    public class NumberFact
     {
         [JsonProperty("text")]
         public string Fact { get; set; }

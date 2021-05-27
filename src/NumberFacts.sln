@@ -8,7 +8,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberFacts", "NumberFacts\
 		{0EA0F2DF-C2EB-45F5-9E3F-D262A778ECF4} = {0EA0F2DF-C2EB-45F5-9E3F-D262A778ECF4}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{0EA0F2DF-C2EB-45F5-9E3F-D262A778ECF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{0EA0F2DF-C2EB-45F5-9E3F-D262A778ECF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
